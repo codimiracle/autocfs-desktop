@@ -1,0 +1,16 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "this is a demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "node test.js"
+  },
+  "dependencies" : {
+  	"electron" : "1.8.4"
+  },
+  "author": "codimiracle",
+  "license": "MIT"
+
+}
