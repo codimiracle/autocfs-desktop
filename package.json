@@ -8,7 +8,7 @@
     "test": "node test.js"
   },
   "dependencies" : {
-  	"electron" : "1.8.4"
+  	"electron": ">=1.8.8"
   },
   "author": "codimiracle",
   "license": "MIT"
